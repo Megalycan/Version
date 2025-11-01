@@ -1,7 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "1.3.0",
   "mandatory": false,
-  "url": "https://github.com/<OWNER>/<REPO>/releases/download/v1.3.0/MegalycanApp_v1.3.0.exe",
-  "notes": "• NUI do plano 20€\n• Correções no login\n• Melhorias de performance",
+  "url": "https://github.com/Megalycan/Megalycan-Bets/releases/download/v1.3.0/Megalycan.exe",
+  "notes": "• NUI do plano 20€\n• Bloqueio por paid_access + expiração\n• Aviso de atualização integrado",
   "published_at": "2025-11-01T18:00:00Z"
 }
+
