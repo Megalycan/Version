@@ -1,1 +1,7 @@
-
+{
+  "version": "1.3.0",
+  "mandatory": false,
+  "url": "https://github.com/<OWNER>/<REPO>/releases/download/v1.3.0/MegalycanApp_v1.3.0.exe",
+  "notes": "• NUI do plano 20€\n• Correções no login\n• Melhorias de performance",
+  "published_at": "2025-11-01T18:00:00Z"
+}
